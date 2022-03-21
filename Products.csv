@@ -1,0 +1,19 @@
+ProductID;ProductName;CategoryID;Price;GroupID
+1;Sedan;1;;1
+2;Coupe;1;;1
+3;Eight - cylinder;2;;
+4;Sixteen - cylinder;2;;
+5;Frame chassis;3;;
+6;Load-bearing body;3;;
+7;Gas;4;;
+8;Electric;4;;
+9;Front-wheel drive;5;;
+10;Rear-wheel drive;5;;
+11;AWD;5;;
+12;Manual;6;;
+13;Automatic;6;;
+14;190 hp;7;;
+15;140 hp;7;;
+16;210 hp;7;;
+17;Panoramic roof;8;;
+18;Climate control;8;;
