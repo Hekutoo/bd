@@ -1,10 +1,10 @@
-ProductID,ProductName,CategoryID,Price,
-1,Sedan,1,450000
-2,Coupe,1,560000
-3,Eight - cylinder,2,100000
-4,Sixteen - cylinder,2,150000
-5,Frame chassis,3,100000
-6,Load-bearing body,3,200000
+ProductID,ProductName,CategoryID
+1,Sedan,1
+2,Coupe,1
+3,Eight - cylinder,2
+4,Sixteen - cylinder,2
+5,Frame chassis,3
+6,Load-bearing body,3
 7,Gas,4
 8,Electric,4
 9,Front-wheel drive,5
@@ -17,3 +17,13 @@ ProductID,ProductName,CategoryID,Price,
 16,210 hp,7
 17,Panoramic roof,8
 18,Climate control,8
+19,Pickup truck,1
+20,Hatchback,1
+21,Station wagon,1
+22,Liftback,1
+23,Suv,1
+24,Crossover,1
+25,Van,1
+26,Four - cylinder,2
+27,Parking sensors,8
+28,Heated seats,8
